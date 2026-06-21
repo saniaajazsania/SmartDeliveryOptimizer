@@ -1,0 +1,10 @@
+# Python cache files (Inko github par nahi jana chahiye)
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings (Private hain)
+.vscode/
+
+# Environment variables (Agar koi secret keys hon)
+.env

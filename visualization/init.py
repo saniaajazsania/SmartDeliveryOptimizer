@@ -1,0 +1,1 @@
+"""Visualization package — GUI and chart rendering."""

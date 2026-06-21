@@ -1,0 +1,1 @@
+"""Algorithms package — classical AI search implementations."""
